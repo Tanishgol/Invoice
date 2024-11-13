@@ -48,8 +48,9 @@ This project is a responsive **Enhanced Invoice System** designed to help users 
 
 ## Screenshots
 
-![Dark Mode](url-to-dark-mode-screenshot)
-![Invoice Summary](url-to-invoice-summary-screenshot)
+![Dark Mode]([url-to-dark-mode-screenshot](https://github.com/user-attachments/assets/2b27a63a-22f2-4d07-83a3-46700568f7ce))
+
+![Invoice Summary]([url-to-invoice-summary-screenshot](https://github.com/user-attachments/assets/2025656c-6100-4404-963e-9d1bb3e1d1c3))
 
 ## License
 
