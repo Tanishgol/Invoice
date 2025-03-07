@@ -26,13 +26,13 @@ This project is a responsive **Enhanced Invoice System** designed to help users 
 ## Installation
 
 1. Clone this repository:
-    ```bash
-    git clone https://github.com/Tanishgol/Invoice.git
-    ```
+   ```bash
+   git clone https://github.com/Tanishgol/Invoice.git
+   ```
 2. Navigate into the project directory:
-    ```bash
-    cd Invoice
-    ```
+   ```bash
+   cd Invoice
+   ```
 3. Open the `index.html` file in your browser to start the application.
 
 ## Usage
